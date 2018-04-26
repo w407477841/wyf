@@ -1,5 +1,6 @@
 springboot 集成 rabbitmq
 原文 https://blog.csdn.net/i_vic/article/details/72742277
+
 1.添加 rabbitmq依赖
  
 2.创建rabbitmq配置类
